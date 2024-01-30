@@ -1,3 +1,10 @@
+<p align="center">
+<img src=https://img.shields.io/github/stars/easytornado/Tornado-Cash-App?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/easytornado/Tornado-Cash-App?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/easytornado/Tornado-Cash-App?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/easytornado/Tornado-Cash-App?style=for-the-badge&logo=appveyor&color=informational />
+</p>
+  
 # Tornado Cash Private Transfer Application
 ## Without access barriers! Easiest to use
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -10,23 +17,25 @@ You can access the Tornado Cash application unblocked through this repo. This ap
 
 ## Installation (Way I)
 
-1. Clone the repository to your machine:
+Download and Install Git here:
+[Git](https://git-scm.com/download/win)
 
-   `git clone https://github.com/easytornado/Tornado-Cash-App.git`
+Download and Install Python here:
+[Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
 
-2. Navigate to the project directory:
+Then run the following commands in terminal or CMD:
 
-   `cd Tornado-Cash-App`
+```shell
+git clone https://github.com/easytornado/Tornado-Cash-App
+cd Tornado-Cash-App
+python3 main.py
+```
 
-3. Install the required dependencies:
-
-   `"Build & Start.bat"`
 
 ## Installation (Way II)
 
-
 1. [Download](https://github.com/easytornado/Tornado-Cash-App/archive/refs/heads/main.zip) the repository release and extract files.
-2.  Double-click on the `"Build & Start.bat"` file to run it.
+2.  Double-click on the `"AutoStart.bat"` file to run it.
 
 
 ## Usage
