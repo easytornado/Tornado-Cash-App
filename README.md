@@ -28,6 +28,7 @@ Then run the following commands in terminal or CMD:
 ```shell
 git clone https://github.com/easytornado/Tornado-Cash-App
 cd Tornado-Cash-App
+pip install -r "requirements.txt"
 python3 main.py
 ```
 
